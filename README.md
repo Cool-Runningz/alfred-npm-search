@@ -1,6 +1,6 @@
 # NPM Seach for Alfred
 
-**alfred-npm-search allows you to quickly and search for an npm package and navigate to its npm page.**
+**alfred-npm-search allows you to quickly and search for a package and navigate to its npm page.**
 
 ## Demo
 
