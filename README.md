@@ -1,4 +1,4 @@
-# NPM Seach for Alfred
+# NPM Package Seach for Alfred
 
 **alfred-npm-search allows you to quickly and search for a package and navigate to its npm page.**
 
